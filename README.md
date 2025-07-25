@@ -1,0 +1,1 @@
+# join-auto-accept-bot
